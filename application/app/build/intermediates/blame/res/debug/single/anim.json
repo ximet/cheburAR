@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Projects\\cheburAR\\application\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_down.xml",
+        "source": "D:\\Projects\\cheburAR\\application\\app\\src\\main\\res\\anim\\bottom_down.xml"
+    },
+    {
+        "merged": "D:\\Projects\\cheburAR\\application\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_up.xml",
+        "source": "D:\\Projects\\cheburAR\\application\\app\\src\\main\\res\\anim\\bottom_up.xml"
+    }
+]
