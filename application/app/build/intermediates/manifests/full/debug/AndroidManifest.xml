@@ -3,7 +3,6 @@
     package="com.vuforia.samples.VuforiaSamples"
     android:versionCode="600"
     android:versionName="6.0" >
-
     <!--
         The application's compatibility with one or more versions of the Android
         platform.

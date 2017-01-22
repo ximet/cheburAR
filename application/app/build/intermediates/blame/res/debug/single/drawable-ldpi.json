@@ -1,10 +1,10 @@
 [
     {
-        "merged": "D:\\Projects\\cheburAR\\application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\logo.png",
-        "source": "D:\\Projects\\cheburAR\\application\\app\\src\\main\\res\\drawable-ldpi\\logo.png"
+        "merged": "/Users/dmitrybardt/Project/cheburAR/application/app/build/intermediates/res/merged/debug/drawable-ldpi/logo.png",
+        "source": "/Users/dmitrybardt/Project/cheburAR/application/app/src/main/res/drawable-ldpi/logo.png"
     },
     {
-        "merged": "D:\\Projects\\cheburAR\\application\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon.png",
-        "source": "D:\\Projects\\cheburAR\\application\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+        "merged": "/Users/dmitrybardt/Project/cheburAR/application/app/build/intermediates/res/merged/debug/drawable-ldpi/icon.png",
+        "source": "/Users/dmitrybardt/Project/cheburAR/application/app/src/main/res/drawable-ldpi/icon.png"
     }
 ]

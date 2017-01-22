@@ -1,3 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        is-multidex="true"
+        jar="/Users/dmitrybardt/Project/cheburAR/vuforiaSDK/build/java/vuforia/Vuforia.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="15f0c848fc592fc94c41fff712b6079d754ecbe2">
+        <dex dex="/Users/dmitrybardt/Project/cheburAR/application/app/build/intermediates/transforms/dex/debug/folders/1000/2/Vuforia_c42523ec5eef6494369d506affb56758189c1071/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dmitrybardt/Project/cheburAR/application/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3760539c6b877a84690372481644cdf2598be930">
+        <dex dex="/Users/dmitrybardt/Project/cheburAR/application/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5141873bdf6abf87cfd326e8671b319ffdb6b1af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dmitrybardt/Project/cheburAR/application/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d91efb01b80fabf075de62ddb1eb481f9ad864e7">
+        <dex dex="/Users/dmitrybardt/Project/cheburAR/application/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_faea123ed9450d08ee46f519669ce3778a646451/classes.dex" />
+    </item>
+
+</items>
